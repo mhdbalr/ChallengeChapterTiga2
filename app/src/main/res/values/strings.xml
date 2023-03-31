@@ -1,0 +1,192 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="ChallengeChapter3">ChallengeChapter3</string>
+
+    <string-array name="data_abjad">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+
+    <string-array name="word">
+        <item>Abjad</item>
+        <item>Asia</item>
+        <item>Awal</item>
+        <item>Ayah</item>
+        <item>Anjay</item>
+
+        <item>Baca</item>
+        <item>Buku</item>
+        <item>Bola</item>
+        <item>Bahaya</item>
+        <item>Berusaha</item>
+
+        <item>Cicak</item>
+        <item>Cucu</item>
+        <item>Curam</item>
+        <item>Cenayang</item>
+        <item>Celana</item>
+
+        <item>Dansa</item>
+        <item>Dumang</item>
+        <item>Dandan</item>
+        <item>Dukun</item>
+        <item>Duda</item>
+
+        <item>Emak</item>
+        <item>Entok</item>
+        <item>Enak</item>
+        <item>Eyang</item>
+        <item>Elang</item>
+
+        <item>Futsal</item>
+        <item>Fanny</item>
+        <item>Facebook</item>
+        <item>Form</item>
+        <item>Feedback</item>
+
+        <item>Ganteng</item>
+        <item>Gigi</item>
+        <item>Gusi</item>
+        <item>Gaochujang</item>
+        <item>Gamma</item>
+
+        <item>Hanabi</item>
+        <item>Hilang</item>
+        <item>Hantu</item>
+        <item>Hujan</item>
+        <item>Hutan</item>
+
+        <item>Iman</item>
+        <item>Iklim</item>
+        <item>Insan</item>
+        <item>Inang</item>
+        <item>Ikan</item>
+
+        <item>Jorok</item>
+        <item>Jadwal</item>
+        <item>Jaya</item>
+        <item>Jepang</item>
+        <item>Java</item>
+
+        <item>Kotlin</item>
+        <item>Keren</item>
+        <item>Kuku</item>
+        <item>Kusam</item>
+        <item>Kunci</item>
+
+        <item>Landak</item>
+        <item>Lomba</item>
+        <item>Lelang</item>
+        <item>Lanang</item>
+        <item>Lucu</item>
+
+        <item>Mama</item>
+        <item>Mungkin</item>
+        <item>Masak</item>
+        <item>Mie</item>
+        <item>Mantap</item>
+
+        <item>Nanas</item>
+        <item>Nasi</item>
+        <item>Niat</item>
+        <item>Nama</item>
+        <item>Nona</item>
+
+        <item>Omg</item>
+        <item>Orang</item>
+        <item>Otak</item>
+        <item>Oyen</item>
+        <item>Obat</item>
+
+        <item>Papa</item>
+        <item>Panda</item>
+        <item>Pundak</item>
+        <item>Pempek</item>
+        <item>Pusing</item>
+
+        <item>Quiziz</item>
+        <item>Qamu</item>
+        <item>Quda</item>
+        <item>Qurasa</item>
+        <item>Qurang</item>
+
+        <item>Rasa</item>
+        <item>Run</item>
+        <item>Rambut</item>
+        <item>Rudal</item>
+        <item>Rusa</item>
+
+        <item>Susu</item>
+        <item>Sapi</item>
+        <item>Suka</item>
+        <item>Sudah</item>
+        <item>Sakit</item>
+
+        <item>Turki</item>
+        <item>Turu</item>
+        <item>Tekan</item>
+        <item>Tuan</item>
+        <item>Tulang</item>
+
+        <item>Unta</item>
+        <item>Uang</item>
+        <item>Ulang</item>
+        <item>Ujan</item>
+        <item>Uban</item>
+
+        <item>Vava</item>
+        <item>Vivi</item>
+        <item>Vuvu</item>
+        <item>Veve</item>
+        <item>Vovo</item>
+
+        <item>Wanwan</item>
+        <item>Windah</item>
+        <item>Wayang</item>
+        <item>Wadah</item>
+        <item>War</item>
+
+        <item>Xavi</item>
+        <item>Xixil</item>
+        <item>Xusu</item>
+        <item>Xuram</item>
+        <item>Xantay</item>
+
+        <item>Yoga</item>
+        <item>Yoyo</item>
+        <item>Yamete</item>
+        <item>Yoru</item>
+        <item>Yasin</item>
+
+        <item>Zebra Cross</item>
+        <item>Zebra</item>
+        <item>Ziarah</item>
+        <item>Zaitun</item>
+        <item>Zig-Zag</item>
+
+    </string-array>
+</resources>
