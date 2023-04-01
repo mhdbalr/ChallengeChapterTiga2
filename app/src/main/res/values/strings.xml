@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">RecyclerView</string>
     <string name="ChallengeChapter3">ChallengeChapter3</string>
+    <string name="words">Words</string>
+    <string name="word_that_start_with">Word That Start With</string>
 
     <string-array name="data_abjad">
         <item>A</item>

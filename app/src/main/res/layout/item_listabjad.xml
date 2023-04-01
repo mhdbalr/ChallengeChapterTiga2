@@ -10,7 +10,6 @@
         app:cardCornerRadius="15dp"
         android:layout_height="wrap_content">
         <RelativeLayout
-            android:layout_margin="20dp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
             <Button
@@ -18,10 +17,10 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="@color/white"
-                android:background="@color/purple"
+                android:background="@color/purple_500"
                 android:textSize="30sp"
                 android:layout_centerInParent="true"
-                android:text="Huruf"
+                android:text="Abjad"
                 android:textAlignment="center" />
         </RelativeLayout>
     </androidx.cardview.widget.CardView>

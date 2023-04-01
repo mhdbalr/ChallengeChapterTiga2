@@ -5,10 +5,29 @@
     android:layout_height="match_parent"
     tools:context=".FragmentListKata">
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/kata"
+    <TextView
+        android:id="@+id/txtWordStart"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="52dp"
+        android:background="@color/purple_500"
+        android:gravity="center"
+        android:text="@string/word_that_start_with"
+        android:textColor="@color/white"
+        android:textSize="35sp"
+        android:textStyle="bold" />
 
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="648dp"
+        android:layout_marginTop="50dp"
+        tools:ignore="UselessParent">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/kata"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="vertical" />
+    </RelativeLayout>
 
 </RelativeLayout>
